@@ -1,0 +1,1 @@
+Web models project for Realtorist project.

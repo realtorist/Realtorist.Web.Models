@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>Realtorist.Web.Models</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Dmytro Bondarchuk</Authors>
+    <Title>Realtorist.Web.Models</Title>
+    <Description>Models for web project for the RealEstate framework</Description>
+    <RepositoryUrl>https://github.com/realtorist/Realtorist.Web.Models</RepositoryUrl>
+    <ReleaseNotes>Initial publish</ReleaseNotes>
+    <!-- <Company></Company> -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Realtorist.Models" Version="0.0.1" />
+  </ItemGroup>
+
+</Project>
