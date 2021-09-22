@@ -1,4 +1,4 @@
-﻿using Realtorist.Models.Models;
+﻿using Realtorist.Models.Geo;
 
 namespace Realtorist.Web.Models.Listings
 {

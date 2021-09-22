@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Realtorist.Models.Enums.LookupTypes;
 using Realtorist.Models.Listings.Details;
 using Realtorist.Models.Listings.Enums;
-using Realtorist.Models.Models;
+using Realtorist.Models.Geo;
 
 namespace Realtorist.Web.Models.Admin.Listings
 {
