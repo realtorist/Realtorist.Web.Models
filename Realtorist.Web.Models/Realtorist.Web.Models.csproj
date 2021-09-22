@@ -2,12 +2,12 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <PackageId>Realtorist.Web.Models</PackageId>
-    <Version>0.0.2</Version>
+    <Version>0.0.3</Version>
     <Authors>Dmytro Bondarchuk</Authors>
     <Title>Realtorist.Web.Models</Title>
     <Description>Models for web project for the RealEstate framework</Description>
     <RepositoryUrl>https://github.com/realtorist/Realtorist.Web.Models</RepositoryUrl>
-    <ReleaseNotes>Updated libs</ReleaseNotes>
+    <ReleaseNotes>Moved out Admin models</ReleaseNotes>
     <!-- <Company></Company> -->
   </PropertyGroup>
 
